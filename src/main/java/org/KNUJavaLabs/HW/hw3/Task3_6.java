@@ -1,5 +1,8 @@
 package org.KNUJavaLabs.HW.hw3;
 
+/*
+LabsJava1_2 Part 2 Task 3.6
+ */
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Task3_6 {

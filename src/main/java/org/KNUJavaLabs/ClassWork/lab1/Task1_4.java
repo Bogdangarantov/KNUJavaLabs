@@ -2,6 +2,7 @@ package org.KNUJavaLabs.ClassWork.lab1;
 /*
 LabsJava1_2 (1 Part) Task 1.4
  */
+
 public class Task1_4 {
 	public static String str = "Hi, Alex";
 	public String testStr = "Hi";

@@ -2,6 +2,7 @@ package org.KNUJavaLabs.ClassWork.lab2;
 /*
 LabsJava1_2 (1 Part) Task 3.4
  */
+
 import java.math.BigDecimal;
 
 public class Task3_4 {

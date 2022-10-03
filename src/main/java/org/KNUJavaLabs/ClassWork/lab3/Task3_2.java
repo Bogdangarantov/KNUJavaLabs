@@ -5,7 +5,6 @@ import java.util.concurrent.ThreadLocalRandom;
 /*
 LabsJava1_2 (2 Part) Task 3.2
  */
-
 public class Task3_2 {
     public static void main(String[] args) {
         Random25();

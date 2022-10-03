@@ -1,5 +1,7 @@
 package org.KNUJavaLabs.HW.hw3;
-
+/*
+LabsJava1_2 Part 2 Task 3.6
+ */
 public class Task2_9 {
     public static void main(String[] args) {
         int m = 123121341;

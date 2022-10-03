@@ -3,6 +3,7 @@ package org.KNUJavaLabs.ClassWork.lab2;
 /*
 LabsJava1_2 (1 Part) Task 3.2
  */
+
 public class Task3_2 {
     public static void main(String[] args) {
         System.out.printf("Результат дорівнює: %d \n",2+3);

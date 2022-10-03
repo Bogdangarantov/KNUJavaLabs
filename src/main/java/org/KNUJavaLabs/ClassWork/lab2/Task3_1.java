@@ -2,6 +2,7 @@ package org.KNUJavaLabs.ClassWork.lab2;
 /*
 LabsJava1_2 (1 Part) Task 3.1
  */
+
 public class Task3_1 {
     public static void main(String[] args) {
         System.out.println(1.2+31);

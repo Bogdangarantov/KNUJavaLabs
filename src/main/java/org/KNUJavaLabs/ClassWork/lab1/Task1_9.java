@@ -3,7 +3,6 @@ package org.KNUJavaLabs.ClassWork.lab1;
 LabsJava1_2 (1 Part) Task 1.9
  */
 
-
 /**
  * <h1>Задокументуйте правильно програму.</h1>
  * <p>

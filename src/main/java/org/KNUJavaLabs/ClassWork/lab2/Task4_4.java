@@ -2,9 +2,8 @@ package org.KNUJavaLabs.ClassWork.lab2;
 /*
 LabsJava1_2 (1 Part) Task 4.4
  */
+
 import java.util.Scanner;
-
-
 public class Task4_4 {
 
     public static void main(String[] args) {

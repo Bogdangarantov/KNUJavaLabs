@@ -2,7 +2,6 @@ package org.KNUJavaLabs.ClassWork.lab4;
 /*
 LabsJava1_2 (2 Part) Task 4.1
  */
-
 import java.util.Scanner;
 
 public class Task4_1 {

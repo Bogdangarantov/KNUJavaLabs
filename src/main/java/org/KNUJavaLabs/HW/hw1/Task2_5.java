@@ -1,5 +1,7 @@
 package org.KNUJavaLabs.HW.hw1;
-
+/*
+LabsJava1_2 Part 1 Task 2.5
+ */
 import java.util.Arrays;
 
 public class Task2_5 {

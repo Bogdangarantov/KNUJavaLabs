@@ -3,7 +3,6 @@ import java.util.Scanner;
 /*
 LabsJava1_2 (2 Part) Task 2.1
  */
-
 public class Task2_1 {
     public static void main(String[] args) {
         int a = 0b1101010; //106

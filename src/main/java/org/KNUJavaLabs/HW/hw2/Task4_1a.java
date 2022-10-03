@@ -1,5 +1,7 @@
 package org.KNUJavaLabs.HW.hw2;
-
+/*
+LabsJava1_2 Part 1 Task 4.1a
+ */
 import java.util.Scanner;
 
 public class Task4_1a {
