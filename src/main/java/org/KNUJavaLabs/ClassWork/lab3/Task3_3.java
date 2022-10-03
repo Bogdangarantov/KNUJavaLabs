@@ -3,6 +3,7 @@ import java.util.Scanner;
 /*
 LabsJava1_2 (2 Part) Task 3.3
  */
+
 public class Task3_3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

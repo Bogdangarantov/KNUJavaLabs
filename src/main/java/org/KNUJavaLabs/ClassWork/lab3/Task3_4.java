@@ -3,6 +3,7 @@ package org.KNUJavaLabs.ClassWork.lab3;
 LabsJava1_2 (2 Part) Task 3.4
  */
 
+
 import java.util.Scanner;
 public class Task3_4 {
     public static void main(String[] args) {
