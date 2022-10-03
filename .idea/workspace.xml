@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-JustPullMe
+    <list default="true" id="e1ea08e2-c108-492a-af19-548c718efc2d" name="Changes" comment="commit of my changes for 03.10.2022">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,22 +38,22 @@ JustPullMe
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java/KNUJavaLabs/src/main/resources&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "D:/Projects/Java/KNUJavaLabs",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\Java\KNUJavaLabs\src\main\resources" />
@@ -68,13 +70,13 @@ JustPullMe
       <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\javapractices\3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task4_4">
-    <configuration name="Task2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.HW.hw3.Task2_9" />
-      <module name="src" />
+  <component name="RunManager" selected="Application.Task3_1">
+    <configuration name="Task3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab2.Task3_1" />
+      <module name="KNUJavaLabs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.KNUJavaLabs.HW.hw3.*" />
+          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,44 +138,36 @@ JustPullMe
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Task3_1" />
       <item itemvalue="Application.Task4_4" />
       <item itemvalue="Application.Task4_5" />
-      <item itemvalue="Application.Task2_9" />
       <item itemvalue="Application.Task3_6" />
       <item itemvalue="Application.Task4_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3_1" />
         <item itemvalue="Application.Task4_4" />
         <item itemvalue="Application.Task4_5" />
         <item itemvalue="Application.Task4_1" />
         <item itemvalue="Application.Task3_6" />
-        <item itemvalue="Application.Task2_9" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c3fa891e-a952-417a-a4c2-6d97f11439a3" name="Changes" comment="" />
+      <changelist id="e1ea08e2-c108-492a-af19-548c718efc2d" name="Changes" comment="" />
       <created>1664622276607</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664622276607</updated>
       <workItem from="1664622277891" duration="16218000" />
       <workItem from="1664783525570" duration="10140000" />
+      <workItem from="1664837187564" duration="196000" />
+      <workItem from="1664837386668" duration="104000" />
+      <workItem from="1664837517654" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="add all Class works and HWs to rep">
       <created>1664652554191</created>
