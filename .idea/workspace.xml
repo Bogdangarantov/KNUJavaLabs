@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3fa891e-a952-417a-a4c2-6d97f11439a3" name="Changes" comment="add all Class works and HWs to rep">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_1SupportClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_1SupportClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task4_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw1/Task2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HW/hw1/Task2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw2/Task3_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HW/hw2/Task3_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw2/Task4_1a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HW/hw2/Task4_1a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw2/Task4_1b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HW/hw2/Task4_1b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw3/Task2_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HW/hw3/Task2_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw3/Task3_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HW/hw3/Task3_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/allclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/allclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_8/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/allclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/allclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ClassWork/lab1/task1_9/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_1SupportClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task1_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task2_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab1/Task2_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task3_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab2/Task4_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task1_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task1_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task2_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task2_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task3_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/ClassWork/lab3/Task3_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/HW/hw1/Task2_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/HW/hw2/Task3_28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/HW/hw2/Task4_1a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/HW/hw2/Task4_1b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/classes/org/KNUJavaLabs/HW/hw3/Task2_9.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FWykLot9oIfdQ0vd3PWRs5dj6Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "D:/Projects/Java/KNUJavaLabs/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\resources" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\src\main\java\org\KNUJavaLabs\ClassWork\lab2" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\src\main\java\org\KNUJavaLabs\ClassWork\lab1" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\src\main\resources\ClassWork\lab1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Java\KNUJavaLabs\src" />
+      <recent name="D:\Projects\Java\KNUJavaLabs" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\src\main\resources\ClassWork\" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\javapractices\ClassWork" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\javapractices\3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task4_4">
+    <configuration name="Task2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.HW.hw3.Task2_9" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.KNUJavaLabs.HW.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.HW.hw3.Task3_6" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.KNUJavaLabs.HW.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab4.Task4_1" />
+      <module name="KNUJavaLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab4.Task4_4" />
+      <module name="KNUJavaLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab4.Task4_5" />
+      <module name="KNUJavaLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task4_4" />
+      <item itemvalue="Application.Task4_5" />
+      <item itemvalue="Application.Task2_9" />
+      <item itemvalue="Application.Task3_6" />
+      <item itemvalue="Application.Task4_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task4_4" />
+        <item itemvalue="Application.Task4_5" />
+        <item itemvalue="Application.Task4_1" />
+        <item itemvalue="Application.Task3_6" />
+        <item itemvalue="Application.Task2_9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3fa891e-a952-417a-a4c2-6d97f11439a3" name="Changes" comment="" />
+      <created>1664622276607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664622276607</updated>
+      <workItem from="1664622277891" duration="16218000" />
+      <workItem from="1664783525570" duration="8031000" />
+    </task>
+    <task id="LOCAL-00001" summary="add all Class works and HWs to rep">
+      <created>1664652554191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664652554191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add all Class works and HWs to rep" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all Class works and HWs to rep" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
