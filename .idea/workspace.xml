@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3fa891e-a952-417a-a4c2-6d97f11439a3" name="Changes" comment="deleting target">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_5.java" afterDir="false" />
-    </list>
+    <list default="true" id="c3fa891e-a952-417a-a4c2-6d97f11439a3" name="Changes" comment="commit of my changes for 03.10.2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +173,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664622276607</updated>
       <workItem from="1664622277891" duration="16218000" />
-      <workItem from="1664783525570" duration="9459000" />
+      <workItem from="1664783525570" duration="10140000" />
     </task>
     <task id="LOCAL-00001" summary="add all Class works and HWs to rep">
       <created>1664652554191</created>
@@ -212,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664803103209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit of my changes for 03.10.2022">
+      <created>1664804150833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664804150833</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +224,8 @@
     <MESSAGE value="add all Class works and HWs to rep" />
     <MESSAGE value="restructurizing" />
     <MESSAGE value="deleting target" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleting target" />
+    <MESSAGE value="commit of my changes for 03.10.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit of my changes for 03.10.2022" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
