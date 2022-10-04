@@ -2,6 +2,7 @@ package org.KNUJavaLabs.ClassWork.lab2;
 /*
 LabsJava1_2 (1 Part) Task 3.7
  */
+
 public class Task3_7 {
 
     public static final double gamma = 6.673e-11;

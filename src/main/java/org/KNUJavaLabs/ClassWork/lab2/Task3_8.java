@@ -2,6 +2,7 @@ package org.KNUJavaLabs.ClassWork.lab2;
 /*
 LabsJava1_2 (1 Part) Task 3.8
  */
+
 import java.util.Arrays;
 import java.util.Scanner;
 

@@ -2,6 +2,7 @@ package org.KNUJavaLabs.ClassWork.lab2;
 /*
 LabsJava1_2 (1 Part) Task 3.5
  */
+
 import java.util.Arrays;
 
 public class Task3_5 {
