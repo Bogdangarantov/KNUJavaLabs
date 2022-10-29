@@ -1,7 +1,9 @@
 package org.KNUJavaLabs.HW.hw6;
 import org.KNUJavaLabs.ClassWork.lab6.Student;
 import org.KNUJavaLabs.HW.hw6.Abiturient;
-
+/*
+LabsJava4 Task 2.4
+ */
 import java.util.*;
 
 public class Task2_4 {
