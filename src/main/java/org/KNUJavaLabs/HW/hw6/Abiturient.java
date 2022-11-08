@@ -1,5 +1,7 @@
 package org.KNUJavaLabs.HW.hw6;
-
+/*
+LabsJava4 Task 2.4 class Abiturient
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 

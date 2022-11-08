@@ -1,5 +1,7 @@
 package org.KNUJavaLabs.HW.hw6;
-
+/*
+LabsJava4 Task 3.10 class Line
+ */
 public class Line {
     int a,b,c;
     Line() {

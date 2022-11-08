@@ -1,7 +1,9 @@
 package org.KNUJavaLabs.HW.hw6;
 
 import java.util.*;
-
+/*
+LabsJava4 Task 3.10
+ */
 public class Task3_10 {
     public static void main(String[] args) {
         List<Line> list = new ArrayList<>();
