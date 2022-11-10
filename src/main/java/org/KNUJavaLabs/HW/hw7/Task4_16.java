@@ -1,7 +1,9 @@
 package org.KNUJavaLabs.HW.hw7;
 
 import java.util.Arrays;
-
+/*
+LabsJava4 Task 4.16
+ */
 public class Task4_16 {
         public static void main(String[] args) throws java.lang.Exception
         {

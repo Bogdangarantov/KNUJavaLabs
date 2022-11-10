@@ -1,4 +1,7 @@
 package org.KNUJavaLabs.HW.hw7;
+/*
+LabsJava4 Task 4.16
+ */
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;

@@ -1,5 +1,7 @@
 package org.KNUJavaLabs.HW.hw7;
-
+/*
+LabsJava4 Task 5.6
+ */
 public class Star {
     String name;
     Star(){

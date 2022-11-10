@@ -1,9 +1,11 @@
 package org.KNUJavaLabs.HW.hw7;
-
+/*
+LabsJava4 Task 5.6
+ */
 import java.util.ArrayList;
 import java.util.List;
 
-public class Task5_16 {
+public class Task5_6 {
     public static void main(String[] args) {
         int n = 4;//Count of planets
         List<Planet> planets = new ArrayList<>();
