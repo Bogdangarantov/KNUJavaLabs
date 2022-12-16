@@ -4,96 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ea08e2-c108-492a-af19-548c718efc2d" name="Changes" comment="commit of my changes for 03.10.2022">
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_1SupportClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task1_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab1/Task2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task3_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab2/Task4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab3/Task3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task1_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/ClassWork/lab4/Task4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw1/Task2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw2/Task3_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw2/Task4_1a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw2/Task4_1b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw3/Task2_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw3/Task3_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw4/Task1_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/KNUJavaLabs/HW/hw4/Task4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/allclasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/index-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_8/type-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/allclasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/index-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/resources/ClassWork/lab1/task1_9/type-search-index.zip" afterDir="false" />
+    <list default="true" id="e1ea08e2-c108-492a-af19-548c718efc2d" name="Changes" comment="Dodatkovi zavdannya z ostannyoji praktychnoji">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HwVlad/hw11/Task5_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HwVlad/hw11/Task5_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HwVlad/hw11/Task5_11B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HwVlad/hw11/Task6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/HwVlad/hw11/Task6_2F.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw10/Task2_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw11/Task5_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw11/Task6_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw2/Task3_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw2/Task4_6e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw3/Task2_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw3/Task3_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw4/Task1_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw4/Task4_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw5/Task2_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw5/Task3_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw6/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw6/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw6/Task2_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw7/Claw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw7/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw7/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw7/Task5_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw7/Tooth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw8/task6_14/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw8/task6_14/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw8/task6_14/Doll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw8/task6_14/Gameroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw8/task6_14/Task6_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/KNUJavaLabs/Vitya/hw8/task6_14/Toy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="package-info" />
         <option value="Class" />
       </list>
@@ -133,39 +79,50 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "D:/Projects/Java/KNUJavaLabs/src",
+    "last_opened_file_path": "D:/Projects/Java/KNUJavaLabs",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.KNUJavaLabs.Vitya.hw8" />
+      <recent name="org.KNUJavaLabs.HW.hw8" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\Java\KNUJavaLabs\src" />
-      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\resources" />
-      <recent name="D:\Projects\Java\KNUJavaLabs\src\main" />
-      <recent name="D:\Projects\Java\KNUJavaLabs\src\src\main\java\org\KNUJavaLabs\ClassWork\lab2" />
-      <recent name="D:\Projects\Java\KNUJavaLabs\src\src\main\java\org\KNUJavaLabs\ClassWork\lab1" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\Vitya\hw8\task7_8" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\Vitya\hw8" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\Vitya\hw7" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\Vitya\hw6" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\og_lab" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\Java\KNUJavaLabs\src" />
-      <recent name="D:\Projects\Java\KNUJavaLabs" />
-      <recent name="D:\Projects\Java\KNUJavaLabs\src\src\main\resources\ClassWork\" />
-      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\javapractices\ClassWork" />
-      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\javapractices\3" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\Bodya" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\og_lab" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\ClassWork\lab11" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\ClassWork\lab10" />
+      <recent name="D:\Projects\Java\KNUJavaLabs\src\main\java\org\KNUJavaLabs\HwVlad\hw8" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.KNUJavaLabs.Vitya.hw7" />
+      <recent name="org.KNUJavaLabs.Vitya.hw2" />
+      <recent name="org.KNUJavaLabs.Vitya.hw1" />
+      <recent name="org.KNUJavaLabs.HwVlad.hw9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task3_1">
-    <configuration name="Task3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab2.Task3_1" />
+  <component name="RunManager" selected="Application.Task_2">
+    <configuration name="Task2_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.Vitya.hw10.Task2_29" />
       <module name="KNUJavaLabs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab2.*" />
+          <option name="PATTERN" value="org.KNUJavaLabs.Vitya.hw10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,27 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.HW.hw3.Task3_6" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.KNUJavaLabs.HW.hw3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab4.Task4_1" />
+    <configuration name="Task2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.Vitya.hw6.Task2_9" />
       <module name="KNUJavaLabs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab4.*" />
+          <option name="PATTERN" value="org.KNUJavaLabs.Vitya.hw6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab4.Task4_4" />
+    <configuration name="Task4_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.Vitya.hw4.Task4_17" />
       <module name="KNUJavaLabs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab4.*" />
+          <option name="PATTERN" value="org.KNUJavaLabs.Vitya.hw4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.ClassWork.lab4.Task4_5" />
+    <configuration name="Task_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.Bodya.Task_12" />
       <module name="KNUJavaLabs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.KNUJavaLabs.ClassWork.lab4.*" />
+          <option name="PATTERN" value="org.KNUJavaLabs.Bodya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,20 +169,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Task3_1" />
-      <item itemvalue="Application.Task4_4" />
-      <item itemvalue="Application.Task4_5" />
-      <item itemvalue="Application.Task3_6" />
-      <item itemvalue="Application.Task4_1" />
-    </list>
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.KNUJavaLabs.Vitya.Task_2" />
+      <module name="KNUJavaLabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.KNUJavaLabs.Vitya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task3_1" />
-        <item itemvalue="Application.Task4_4" />
-        <item itemvalue="Application.Task4_5" />
-        <item itemvalue="Application.Task4_1" />
-        <item itemvalue="Application.Task3_6" />
+        <item itemvalue="Application.Task_2" />
+        <item itemvalue="Application.Task_12" />
+        <item itemvalue="Application.Task2_29" />
+        <item itemvalue="Application.Task2_9" />
+        <item itemvalue="Application.Task4_17" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +204,42 @@
       <workItem from="1664783525570" duration="10140000" />
       <workItem from="1664837187564" duration="196000" />
       <workItem from="1664837386668" duration="104000" />
-      <workItem from="1664837517654" duration="536000" />
+      <workItem from="1664837517654" duration="2341000" />
+      <workItem from="1664911287459" duration="1480000" />
+      <workItem from="1665846077515" duration="18538000" />
+      <workItem from="1666035773616" duration="119000" />
+      <workItem from="1666127171915" duration="8476000" />
+      <workItem from="1666294929741" duration="1596000" />
+      <workItem from="1666311756349" duration="5776000" />
+      <workItem from="1666646695333" duration="6763000" />
+      <workItem from="1666736858393" duration="4567000" />
+      <workItem from="1667046002804" duration="119000" />
+      <workItem from="1667850214823" duration="2065000" />
+      <workItem from="1667937480812" duration="1027000" />
+      <workItem from="1667988468163" duration="594000" />
+      <workItem from="1668086396852" duration="13466000" />
+      <workItem from="1668185698852" duration="4847000" />
+      <workItem from="1668260300964" duration="1980000" />
+      <workItem from="1668353406445" duration="6644000" />
+      <workItem from="1668443140401" duration="27677000" />
+      <workItem from="1669034147471" duration="17190000" />
+      <workItem from="1669220482254" duration="13877000" />
+      <workItem from="1669377846330" duration="608000" />
+      <workItem from="1669584445376" duration="8451000" />
+      <workItem from="1669652854515" duration="16000" />
+      <workItem from="1669660039506" duration="5131000" />
+      <workItem from="1669677639825" duration="14142000" />
+      <workItem from="1669726702708" duration="4965000" />
+      <workItem from="1669748154187" duration="3065000" />
+      <workItem from="1669772775302" duration="12053000" />
+      <workItem from="1669918529737" duration="2531000" />
+      <workItem from="1669942354957" duration="12170000" />
+      <workItem from="1670105682140" duration="2219000" />
+      <workItem from="1670153600208" duration="18964000" />
+      <workItem from="1670371722494" duration="16000" />
+      <workItem from="1671135158669" duration="3389000" />
+      <workItem from="1671206717380" duration="777000" />
+      <workItem from="1671208977946" duration="3305000" />
     </task>
     <task id="LOCAL-00001" summary="add all Class works and HWs to rep">
       <created>1664652554191</created>
@@ -293,7 +276,147 @@
       <option name="project" value="LOCAL" />
       <updated>1664837621214</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit of my changes for 03.10.2022">
+      <created>1664838126774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664838126774</updated>
+    </task>
+    <task id="LOCAL-00007" summary="unreliable changes">
+      <created>1664838352505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664838352505</updated>
+    </task>
+    <task id="LOCAL-00008" summary="unreliable changes">
+      <created>1664838371583</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664838371583</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CLASS WORK 1 in src/main/java/org/KNUJavaLabs/ClassWork/lab1&#10;CLASS WORK 2 in src/main/java/org/KNUJavaLabs/ClassWork/lab2&#10;CLASS WORK 3 in src/main/java/org/KNUJavaLabs/ClassWork/lab3&#10;CLASS WORK 4 in src/main/java/org/KNUJavaLabs/ClassWork/lab4&#10;&#10;HOME WORK 1 in src/main/java/org/KNUJavaLabs/HW/hw1&#10;HOME WORK 2 in src/main/java/org/KNUJavaLabs/HW/hw2&#10;HOME WORK 3 in src/main/java/org/KNUJavaLabs/HW/hw3&#10;HOME WORK 4 in src/main/java/org/KNUJavaLabs/HW/hw4">
+      <created>1664838524168</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664838524168</updated>
+    </task>
+    <task id="LOCAL-00010" summary="just formated directories">
+      <created>1666651331687</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666651331687</updated>
+    </task>
+    <task id="LOCAL-00011" summary="just formated directories">
+      <created>1666651337688</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666651337688</updated>
+    </task>
+    <task id="LOCAL-00012" summary="just formated directories">
+      <created>1666651343344</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666651343344</updated>
+    </task>
+    <task id="LOCAL-00013" summary="just formated directories">
+      <created>1666651548694</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666651548694</updated>
+    </task>
+    <task id="LOCAL-00014" summary="CLASS WORK 5 in src/main/java/org/KNUJavaLabs/ClassWork/lab5&#10;CLASS WORK 6 in src/main/java/org/KNUJavaLabs/ClassWork/lab6&#10;&#10;HOME WORK 5 in src/main/java/org/KNUJavaLabs/HW/hw5">
+      <created>1666651619135</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666651619135</updated>
+    </task>
+    <task id="LOCAL-00015" summary="CLASS WORK 5 in src/main/java/org/KNUJavaLabs/ClassWork/lab5&#10;CLASS WORK 6 in src/main/java/org/KNUJavaLabs/ClassWork/lab6&#10;&#10;HOME WORK 5 in src/main/java/org/KNUJavaLabs/HW/hw5">
+      <created>1666651795817</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666651795817</updated>
+    </task>
+    <task id="LOCAL-00016" summary="HOME WORK 6 in src/main/java/org/KNUJavaLabs/HW/hw6">
+      <created>1666740571869</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666740571869</updated>
+    </task>
+    <task id="LOCAL-00017" summary="HOME WORK 6 in src/main/java/org/KNUJavaLabs/HW/hw6">
+      <created>1667046038553</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667046038553</updated>
+    </task>
+    <task id="LOCAL-00018" summary="HOME WORK 7 in src/main/java/org/KNUJavaLabs/HW/hw7&#10;CLASS WORK 7 in src/main/java/org/KNUJavaLabs/HW/lab7">
+      <created>1668119068014</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668119068014</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HOME WORK 7 in src/main/java/org/KNUJavaLabs/HW/hw7&#10;CLASS WORK 7 in src/main/java/org/KNUJavaLabs/HW/lab7">
+      <created>1668119192746</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668119192746</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HOME WORK 8 in src/main/java/org/KNUJavaLabs/HW/hw8&#10;CLASS WORK 8 in src/main/java/org/KNUJavaLabs/HW/lab8&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course">
+      <created>1668735042170</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668735042170</updated>
+    </task>
+    <task id="LOCAL-00021" summary="HOME WORK 9 in src/main/java/org/KNUJavaLabs/HW/hw9&#10;CLASS WORK 9 in src/main/java/org/KNUJavaLabs/HW/lab9&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course">
+      <created>1669590745535</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669590745535</updated>
+    </task>
+    <task id="LOCAL-00022" summary="HOME WORK 9 in src/main/java/org/KNUJavaLabs/HW/hw9&#10;CLASS WORK 9 in src/main/java/org/KNUJavaLabs/HW/lab9&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course">
+      <created>1669591453276</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1669591453276</updated>
+    </task>
+    <task id="LOCAL-00023" summary="HOME WORK 10 in src/main/java/org/KNUJavaLabs/HW/hw9&#10;CLASS WORK 10 in src/main/java/org/KNUJavaLabs/HW/lab9&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course">
+      <created>1669663295204</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1669663295204</updated>
+    </task>
+    <task id="LOCAL-00024" summary="HOME WORK 11 in src/main/java/org/KNUJavaLabs/HW/hw11&#10;CLASS WORK 11 in src/main/java/org/KNUJavaLabs/HW/lab11&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course">
+      <created>1669684720836</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669684720836</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Dodatkovi zavdannya z ostannyoji praktychnoji">
+      <created>1669942774842</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669942774842</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +427,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="PullBranch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -315,7 +450,18 @@
     <MESSAGE value="restructurizing" />
     <MESSAGE value="deleting target" />
     <MESSAGE value="commit of my changes for 03.10.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit of my changes for 03.10.2022" />
+    <MESSAGE value="unreliable changes" />
+    <MESSAGE value="CLASS WORK 1 in src/main/java/org/KNUJavaLabs/ClassWork/lab1&#10;CLASS WORK 2 in src/main/java/org/KNUJavaLabs/ClassWork/lab2&#10;CLASS WORK 3 in src/main/java/org/KNUJavaLabs/ClassWork/lab3&#10;CLASS WORK 4 in src/main/java/org/KNUJavaLabs/ClassWork/lab4&#10;&#10;HOME WORK 1 in src/main/java/org/KNUJavaLabs/HW/hw1&#10;HOME WORK 2 in src/main/java/org/KNUJavaLabs/HW/hw2&#10;HOME WORK 3 in src/main/java/org/KNUJavaLabs/HW/hw3&#10;HOME WORK 4 in src/main/java/org/KNUJavaLabs/HW/hw4" />
+    <MESSAGE value="just formated directories" />
+    <MESSAGE value="CLASS WORK 5 in src/main/java/org/KNUJavaLabs/ClassWork/lab5&#10;CLASS WORK 6 in src/main/java/org/KNUJavaLabs/ClassWork/lab6&#10;&#10;HOME WORK 5 in src/main/java/org/KNUJavaLabs/HW/hw5" />
+    <MESSAGE value="HOME WORK 6 in src/main/java/org/KNUJavaLabs/HW/hw6" />
+    <MESSAGE value="HOME WORK 7 in src/main/java/org/KNUJavaLabs/HW/hw7&#10;CLASS WORK 7 in src/main/java/org/KNUJavaLabs/HW/lab7" />
+    <MESSAGE value="HOME WORK 8 in src/main/java/org/KNUJavaLabs/HW/hw8&#10;CLASS WORK 8 in src/main/java/org/KNUJavaLabs/HW/lab8&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course" />
+    <MESSAGE value="HOME WORK 9 in src/main/java/org/KNUJavaLabs/HW/hw9&#10;CLASS WORK 9 in src/main/java/org/KNUJavaLabs/HW/lab9&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course" />
+    <MESSAGE value="HOME WORK 10 in src/main/java/org/KNUJavaLabs/HW/hw9&#10;CLASS WORK 10 in src/main/java/org/KNUJavaLabs/HW/lab9&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course" />
+    <MESSAGE value="HOME WORK 11 in src/main/java/org/KNUJavaLabs/HW/hw11&#10;CLASS WORK 11 in src/main/java/org/KNUJavaLabs/HW/lab11&#10;&#10;Made by : Kharysh Bogdan (Хариш Богдан) Komp Math 2 , 3 course" />
+    <MESSAGE value="Dodatkovi zavdannya z ostannyoji praktychnoji" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodatkovi zavdannya z ostannyoji praktychnoji" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
